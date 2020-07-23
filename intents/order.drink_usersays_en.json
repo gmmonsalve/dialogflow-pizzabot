@@ -1,0 +1,158 @@
+[
+  {
+    "id": "f9f6fa15-085c-4886-81a9-f0c47422cc46",
+    "data": [
+      {
+        "text": "one ",
+        "userDefined": false
+      },
+      {
+        "text": "chocolate smoothie",
+        "alias": "drink_composite",
+        "meta": "@drink_composite",
+        "userDefined": false
+      },
+      {
+        "text": " please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1c116cae-a5a8-47ca-ae2b-9052d6ad6f15",
+    "data": [
+      {
+        "text": "I want one ",
+        "userDefined": false
+      },
+      {
+        "text": "vanilla milkshake",
+        "alias": "drink_composite",
+        "meta": "@drink_composite",
+        "userDefined": false
+      },
+      {
+        "text": " with ",
+        "userDefined": false
+      },
+      {
+        "text": "2%",
+        "alias": "percentage",
+        "meta": "@sys.percentage",
+        "userDefined": false
+      },
+      {
+        "text": " milk",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f639cbb7-1ccd-44ba-bcd6-107bdc310b90",
+    "data": [
+      {
+        "text": "i want a ",
+        "userDefined": false
+      },
+      {
+        "text": "small",
+        "alias": "size",
+        "meta": "@size",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "strawberry smoothie",
+        "alias": "drink_composite",
+        "meta": "@drink_composite",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "51bbb4e5-597f-42b6-8494-7b0894fa3f4f",
+    "data": [
+      {
+        "text": "two",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "large",
+        "alias": "size",
+        "meta": "@size",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "soy milk chocolate milkshakes",
+        "alias": "drink_composite",
+        "meta": "@drink_composite",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "db38f803-d133-474f-b261-fb59e1e06c68",
+    "data": [
+      {
+        "text": "i\u0027d like to order a rasberry ",
+        "userDefined": false
+      },
+      {
+        "text": "smoothie",
+        "alias": "drink",
+        "meta": "@drink",
+        "userDefined": false
+      },
+      {
+        "text": " please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5681766d-5ecf-40ae-a9b2-f9f57b697338",
+    "data": [
+      {
+        "text": "I would like a ",
+        "userDefined": false
+      },
+      {
+        "text": "mocha smoothie",
+        "alias": "drink_composite",
+        "meta": "@drink_composite",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

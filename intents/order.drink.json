@@ -1,0 +1,92 @@
+{
+  "id": "8668fecb-fcc8-4b2c-a8c3-b2ad40b4d283",
+  "name": "order.drink",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "ddfd4124-eed3-4f69-a3c9-bab1edcf2055",
+          "required": false,
+          "dataType": "@drink_composite",
+          "name": "drink_composite",
+          "value": "$drink_composite",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "b7b36272-740a-4280-abc2-0de8ec7dd33b",
+          "required": false,
+          "dataType": "@drink",
+          "name": "drink",
+          "value": "$drink",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "e32a710e-6040-4e6f-9676-24e5ed66f82f",
+          "required": false,
+          "dataType": "@sys.number",
+          "name": "number",
+          "value": "$number",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "f2a246e2-f48b-44a4-96fb-c8b7bab1c98b",
+          "required": false,
+          "dataType": "@size",
+          "name": "size",
+          "value": "$size",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "e50432cb-3220-48cf-9948-6aa423fff30d",
+          "required": false,
+          "dataType": "@sys.percentage",
+          "name": "percentage",
+          "value": "$percentage",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "I\u0027ve added your drink order"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}
